@@ -1,12 +1,12 @@
 # This is my practice repository.
-## header space 2
+## This will contain my practice exercises from class
 ###header space 3
 
-**bold statements**
+**Contains at least the following**
 
-*italic statements*
- ordered list
- -1 thing
-- 2 thing
--3 thing
+*list of programs*
+ ordered list of exercises
+-1 variables
+-2 conditionals 
+-3 loops
 
